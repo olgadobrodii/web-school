@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "authors": [
+    "olga dobrodii <dobrodey.olga@gmail.com>"
+  ],
+  "description": "",
+  "main": "index",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flipclock": "^0.7.7",
+    "jquery": "^3.3.1"
+  }
+}
